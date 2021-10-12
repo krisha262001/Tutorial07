@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tutorial 07</string>
+    <string name="txt_login">Login</string>
+    <string name="txt_username">Username</string>
+    <string name="edt_name">admin@gmail.com</string>
+    <string name="txt_password">Password</string>
+    <string name="edt_password">123456</string>
+    <string name="btn_button">Login</string>
+    <string name="hyperlink"><a href="Register">Not a Member? Get Registered</a></string>
+</resources>
